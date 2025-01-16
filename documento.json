@@ -1,0 +1,49 @@
+{
+  "actividades": [
+    {
+      "nombre": "Step",
+      "descripcion": "Ejercicio aeróbico basado en el uso de una plataforma para subir y bajar al ritmo de la música.",
+      "tipo": "Cardiovascular",
+      "duracion": "50 minutos",
+      "calorias": 500,
+      "beneficios": ["Resistencia general", "Coordinación"],
+      "tipo_ejercicio": "Cardiovascular"
+    },
+    {
+      "nombre": "GBody",
+      "descripcion": "Entrenamiento de fuerza y resistencia con el propio peso corporal y elementos funcionales.",
+      "tipo": "Tono-Fuerza",
+      "duracion": "45 minutos",
+      "calorias": 450,
+      "beneficios": ["Tonificación", "Fuerza"],
+      "tipo_ejercicio": "Tonificación"
+    },
+    {
+      "nombre": "GAP",
+      "descripcion": "Ejercicios enfocados en Glúteos, Abdomen y Piernas, con series de repeticiones y resistencia.",
+      "tipo": "Tono-Fuerza",
+      "duracion": "40 minutos",
+      "calorias": 400,
+      "beneficios": ["Tonificación", "Resistencia general"],
+      "tipo_ejercicio": "Tonificación"
+    },
+    {
+      "nombre": "Boxeo",
+      "descripcion": "Entrenamiento basado en técnicas de boxeo combinadas con ejercicios funcionales de alta intensidad.",
+      "tipo": "Box",
+      "duracion": "60 minutos",
+      "calorias": 600,
+      "beneficios": ["Fuerza", "Resistencia general", "Coordinación"],
+      "tipo_ejercicio": "Cardiovascular"
+    },
+    {
+      "nombre": "Yoga",
+      "descripcion": "Disciplina física y mental que combina posturas, respiración y meditación para mejorar el bienestar.",
+      "tipo": "Cuerpo-Mente",
+      "duracion": "60 minutos",
+      "calorias": 250,
+      "beneficios": ["Movilidad articular", "Control postural", "Elasticidad muscular"],
+      "tipo_ejercicio": "Movilidad articular"
+    }
+  ]
+}
